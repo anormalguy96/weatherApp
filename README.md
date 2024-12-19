@@ -102,4 +102,4 @@ Feel free to fork this repository and submit pull requests for improvements or b
 ---
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
